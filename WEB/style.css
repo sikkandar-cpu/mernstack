@@ -1,0 +1,13 @@
+.mass{
+    color: blue;
+}
+body{ 
+    margin: 0px;
+    padding: 0px;
+ }
+ .navbar{
+    width: 100vw;
+    height: 10rem;
+    background-color: rgb(112, 112, 33);
+    display: flex;
+ }
